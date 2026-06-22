@@ -1,0 +1,2 @@
+# AI-Based-Duplication-Detection-in-Academic-Submissions
+This project successfully demonstrated the application of artificial intelligence techniques to detect duplication in handwritten academic submissions. By integrating Optical Character Recognition (OCR) and text similarity algorithms, the system effectively converted handwritten documents into digital text and identified similarities between them.
